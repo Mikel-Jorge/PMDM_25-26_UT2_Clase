@@ -36,6 +36,7 @@
 
 # Visual Studio Code cache directory
 .vscode/
+.vsconfig
 
 # Gradle cache directory
 .gradle/
@@ -100,3 +101,6 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+# Assets extras de BayatGames
+/[Aa]ssets/[Bb]ayat[Gg]ames/
